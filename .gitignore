@@ -1,0 +1,6 @@
+*.cmd
+.idea/
+
+node_modules/
+bower_components/
+node/buildWebsite/websites/
